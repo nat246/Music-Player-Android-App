@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Musical Structure App</string>
+
+    <!-- Category labels -->
+    <string name="recently_played">Recently Played</string>
+
+    <string name="home_heading">Home</string>
+    <string name="library_heading">Music Library</string>
+    <string name="favourites_heading">Favourites</string>
+    <string name="player_heading">Player</string>
+
+    <!-- Navigation Buttons -->
+    <string name="music_library">Music Library</string>
+    <string name="playlist">Playlist</string>
+    <string name="favourites">Favourites</string>
+    <string name="albums">Albums</string>
+
+    <!-- Player screen -->
+    <string name="title">Title</string>
+</resources>
